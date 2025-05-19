@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @A3013
-- 👀 I’m interested in Movies and Codeing
-- 🌱 I’m currently learning DSA and DAA
+- 👀 I’m interested in Movies and Games
+- 🌱 I’m currently learning Game Development and game design
 - 📫 abhijeet301303@gmail.com
 - 😄 Pronouns: He/Him
 
